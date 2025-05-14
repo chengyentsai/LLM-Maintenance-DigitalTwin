@@ -3,7 +3,7 @@ import openai
 from time import sleep
 
 # === Configuration ===
-openai.api_key = ""  # 建議從環境變數讀取較安全
+openai.api_key = ""  
 
 # === Prompt Template ===
 def build_prompt(note):
@@ -40,13 +40,13 @@ df = pd.read_csv("simulated_maintenance_logs.csv")
 df["llm_analysis"] = ""
 
 # === Run Analysis on Sample Logs ===
-for i in range(min(10, len(df))):  # 建議先跑前10筆測試
+for i in range(min(10, len(df))):  
     note = df.loc[i, "maintenance_notes"]
     print(f"Analyzing: {note}")
     result = analyze_log(note)
     df.loc[i, "llm_analysis"] = result
     print(result)
-    sleep(1.5)  # 降低API速率，避免被限流
+    sleep(1.5)  
 
 # === Export Result ===
 df.to_csv("llm_maintenance_analysis.csv", index=False)
