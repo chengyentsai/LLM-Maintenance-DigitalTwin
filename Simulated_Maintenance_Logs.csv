@@ -1,0 +1,101 @@
+timestamp,equipment_id,failure_code,maintenance_notes
+2025-04-27 09:40,EQ567,F03,"Slight increase in motor vibration, may require realignment soon"
+2025-04-20 08:59,EQ678,F01,"Slight increase in motor vibration, may require realignment soon"
+2025-04-14 18:21,EQ678,F01,"Unexpected temperature spike recorded, coolant level low"
+2025-05-01 09:10,EQ345,F03,Hydraulic pressure below threshold during operation
+2025-04-24 20:04,EQ345,F05,"Sensor reading inconsistencies, suspect signal interference"
+2025-04-30 06:05,EQ123,F05,Oil leakage detected near valve assembly
+2025-05-06 08:43,EQ678,F04,Oil leakage detected near valve assembly
+2025-05-03 03:26,EQ567,F05,Hydraulic pressure below threshold during operation
+2025-05-11 08:29,EQ456,F06,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-05-12 14:38,EQ345,F02,"Sensor reading inconsistencies, suspect signal interference"
+2025-04-23 21:54,EQ234,F05,"Small persistent oil leak, same spot as before"
+2025-04-30 20:37,EQ567,F05,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-04-20 12:28,EQ456,F02,"Slight increase in motor vibration, may require realignment soon"
+2025-04-19 11:36,EQ123,F03,"Unexpected temperature spike recorded, coolant level low"
+2025-05-14 03:50,EQ456,F05,"Small persistent oil leak, same spot as before"
+2025-04-13 17:17,EQ789,F05,"Small persistent oil leak, same spot as before"
+2025-04-28 23:45,EQ234,F02,"Fan blade wear identified, minor imbalance detected"
+2025-04-18 19:35,EQ234,F05,"Small persistent oil leak, same spot as before"
+2025-05-02 02:49,EQ123,F02,"Slight increase in motor vibration, may require realignment soon"
+2025-05-02 13:40,EQ345,F04,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-04-27 03:38,EQ567,F01,"Unexpected temperature spike recorded, coolant level low"
+2025-05-11 16:33,EQ789,F04,"Fan blade wear identified, minor imbalance detected"
+2025-05-08 22:42,EQ345,F03,"Small persistent oil leak, same spot as before"
+2025-04-20 04:26,EQ789,F06,"Slight increase in motor vibration, may require realignment soon"
+2025-04-24 06:41,EQ567,F01,"Unexpected temperature spike recorded, coolant level low"
+2025-04-30 03:53,EQ345,F03,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-04-25 01:44,EQ234,F03,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-04-15 14:26,EQ678,F03,"Small persistent oil leak, same spot as before"
+2025-04-23 22:27,EQ345,F05,"Small persistent oil leak, same spot as before"
+2025-05-02 19:01,EQ789,F05,"Fan blade wear identified, minor imbalance detected"
+2025-05-06 19:01,EQ123,F05,"Unexpected temperature spike recorded, coolant level low"
+2025-04-14 00:53,EQ678,F02,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-04-17 08:15,EQ345,F05,"Sensor reading inconsistencies, suspect signal interference"
+2025-04-16 02:07,EQ123,F04,Hydraulic pressure below threshold during operation
+2025-04-16 00:27,EQ123,F03,Oil leakage detected near valve assembly
+2025-05-08 06:52,EQ345,F06,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-05-01 23:47,EQ123,F04,"Sensor reading inconsistencies, suspect signal interference"
+2025-04-17 14:48,EQ456,F06,"Unexpected temperature spike recorded, coolant level low"
+2025-05-05 23:49,EQ234,F05,"Unexpected temperature spike recorded, coolant level low"
+2025-05-06 19:39,EQ789,F04,"Slight increase in motor vibration, may require realignment soon"
+2025-04-28 01:48,EQ567,F05,Hydraulic pressure below threshold during operation
+2025-04-22 03:15,EQ789,F06,"Sensor reading inconsistencies, suspect signal interference"
+2025-04-15 14:26,EQ567,F01,Oil leakage detected near valve assembly
+2025-04-17 13:18,EQ345,F03,Hydraulic pressure below threshold during operation
+2025-04-22 04:02,EQ567,F02,"Fan blade wear identified, minor imbalance detected"
+2025-05-02 08:35,EQ345,F05,"Fan blade wear identified, minor imbalance detected"
+2025-04-21 21:23,EQ678,F01,"Slight increase in motor vibration, may require realignment soon"
+2025-04-26 12:11,EQ234,F01,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-05-14 03:08,EQ678,F03,"Small persistent oil leak, same spot as before"
+2025-05-06 10:01,EQ678,F03,"Slight increase in motor vibration, may require realignment soon"
+2025-04-27 03:12,EQ123,F03,"Small persistent oil leak, same spot as before"
+2025-05-09 17:24,EQ789,F03,"Sensor reading inconsistencies, suspect signal interference"
+2025-05-09 22:30,EQ345,F06,"Sensor reading inconsistencies, suspect signal interference"
+2025-05-10 06:40,EQ567,F05,"Fan blade wear identified, minor imbalance detected"
+2025-05-12 03:00,EQ234,F01,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-05-03 21:34,EQ678,F02,"Slight increase in motor vibration, may require realignment soon"
+2025-04-29 20:04,EQ789,F04,"Fan blade wear identified, minor imbalance detected"
+2025-04-13 14:16,EQ234,F02,"Small persistent oil leak, same spot as before"
+2025-05-13 20:20,EQ123,F04,Oil leakage detected near valve assembly
+2025-04-21 00:40,EQ567,F03,"Small persistent oil leak, same spot as before"
+2025-04-26 02:22,EQ234,F02,Oil leakage detected near valve assembly
+2025-05-02 16:29,EQ345,F01,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-04-20 06:32,EQ345,F05,"Small persistent oil leak, same spot as before"
+2025-04-18 14:46,EQ234,F02,"Small persistent oil leak, same spot as before"
+2025-05-04 11:10,EQ234,F03,Hydraulic pressure below threshold during operation
+2025-04-17 08:48,EQ567,F01,"Slight increase in motor vibration, may require realignment soon"
+2025-04-27 04:21,EQ234,F03,"Slight increase in motor vibration, may require realignment soon"
+2025-04-18 04:23,EQ456,F04,"Slight increase in motor vibration, may require realignment soon"
+2025-05-08 22:45,EQ789,F05,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-05-07 22:35,EQ234,F05,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-05-11 00:25,EQ345,F05,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-05-07 23:33,EQ123,F01,"Fan blade wear identified, minor imbalance detected"
+2025-04-19 00:40,EQ567,F03,"Slight increase in motor vibration, may require realignment soon"
+2025-05-02 11:53,EQ123,F03,"Sensor reading inconsistencies, suspect signal interference"
+2025-04-25 13:28,EQ456,F06,"Small persistent oil leak, same spot as before"
+2025-05-03 18:13,EQ567,F05,Hydraulic pressure below threshold during operation
+2025-04-30 02:13,EQ678,F03,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-04-13 22:13,EQ123,F06,"Sensor reading inconsistencies, suspect signal interference"
+2025-05-08 03:54,EQ789,F05,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-04-20 12:28,EQ567,F06,Oil leakage detected near valve assembly
+2025-05-13 05:58,EQ789,F05,"Small persistent oil leak, same spot as before"
+2025-05-09 09:07,EQ567,F06,"Motor vibration exceeds threshold, possible rotor misalignment"
+2025-05-09 03:28,EQ678,F04,"Unexpected temperature spike recorded, coolant level low"
+2025-04-24 18:52,EQ123,F04,"Slight increase in motor vibration, may require realignment soon"
+2025-05-06 20:15,EQ567,F06,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-04-15 03:44,EQ678,F05,"Abrupt halt due to electrical overload, circuit breaker tripped"
+2025-05-13 12:06,EQ123,F06,"Small persistent oil leak, same spot as before"
+2025-04-21 08:53,EQ345,F04,Oil leakage detected near valve assembly
+2025-04-30 05:40,EQ456,F01,Oil leakage detected near valve assembly
+2025-05-13 17:53,EQ789,F06,"Sensor reading inconsistencies, suspect signal interference"
+2025-05-06 14:26,EQ123,F05,"Motor vibration exceeds threshold, possible rotor misalignment"
+2025-04-18 15:26,EQ345,F01,"Slight increase in motor vibration, may require realignment soon"
+2025-05-02 05:22,EQ678,F01,Oil leakage detected near valve assembly
+2025-05-11 05:17,EQ456,F05,"Sensor reading inconsistencies, suspect signal interference"
+2025-04-27 17:13,EQ567,F04,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-05-10 12:27,EQ678,F01,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-05-13 21:13,EQ567,F05,"Fan blade wear identified, minor imbalance detected"
+2025-04-27 17:35,EQ678,F05,"Cooling fan malfunctioned, reported abnormal noise before failure"
+2025-04-16 09:37,EQ789,F04,Hydraulic pressure below threshold during operation
+2025-05-13 01:16,EQ567,F05,Hydraulic pressure below threshold during operation
